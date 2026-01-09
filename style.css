@@ -37,7 +37,7 @@
      display: flex;
      align-items: center;
      padding: 50px 0;
-    background-color: #464444;
+    background-color: #000000;
  }
 
  .home-title {
@@ -502,3 +502,4 @@ textarea.form-control {
   color: #fff;
   transform: translateY(-3px);
 }
+
